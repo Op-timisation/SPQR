@@ -9,7 +9,7 @@ package sudoku;
      *    java SudokuSolver <input-file>
      * For details of the input-file format,see the Grid.java class.
      *
-     * @author  Patrick Chan mathias le gay
+     * @author  Patrick Chan lucas le gay
      * @version 1,12/31/05
      * @see Grid
      */
